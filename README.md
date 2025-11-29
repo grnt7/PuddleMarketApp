@@ -24,6 +24,9 @@ views.py: Where we define the views for the app.
 
 A simple online marketplace application built with Django, where users can buy and sell new and used items. This project serves as a comprehensive guide to setting up a modern web application using the Django web framework.
 
+<img width="200" height="273" alt="Django Online Marketplace" src="https://github.com/user-attachments/assets/0e394007-e0b8-4c4a-af6e-d005b89d7b20" />
+
+
 ## 🚀 Core Technologies
 
 | Technology           | Role                                         |
